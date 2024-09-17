@@ -16,10 +16,8 @@ in order to use the troller you need to create a config.json file that looks lik
 {
     "config": {
         "userIds": [
-            userid1,
-            userid2,
-            userid3,
-						1234
+            123456,
+            1234567
         ]
     }
 }
